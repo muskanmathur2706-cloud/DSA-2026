@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0412-fizz-buzz) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
