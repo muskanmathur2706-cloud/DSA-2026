@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0283-move-zeroes) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -65,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muskanmathur2706-cloud/DSA-2026/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
